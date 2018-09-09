@@ -1,0 +1,6 @@
+doorlockstatus=true
+temperature=20
+sunroofstatus=on
+currentspeed=0
+ignition=off
+windowstatus=closed
